@@ -1,0 +1,40 @@
+img{
+    display: inline-block;
+    margin: 5px;
+    z-index: 11;
+    height:200px;
+}
+
+.yay{
+margin: 2px;
+z-index: 10;
+
+}
+#searchbar{
+width: 150px;
+float: right;
+height: 90vh;
+margin:40px;
+margin-top:10px;
+}
+#buttons{
+float: left;
+height: auto;
+width: 80%;
+}
+#gifs{
+width: auto;
+}
+.btn{
+    margin: 5px;
+}
+body{
+    background-image: url("back.png");
+    background-repeat: no-repeat, repeat;
+    background-position: center; /* Center the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+height: 100vh;
+}
+html{
+    height:100vh;
+}
